@@ -1,0 +1,230 @@
+[
+  {
+    "id": "1",
+    "title_primary": "これで私は所持金が底をついたので：草",
+    "image_primary": "https://nicovideo.cdn.nimg.jp/thumbnails/41321355/41321355.32327621.L",
+    "sources": {
+      "niconico": [
+        {
+          "id": "sm41321355",
+          "title": "これで私は所持金が底をついたので：草",
+          "link": "https://www.nicovideo.jp/watch/sm41321355",
+          "upload_date": "2022-11-03T17:58:02+09:00"
+        }
+      ],
+      "youtube": [],
+      "bilibili": []
+    },
+    "creators": [{ "id": "1", "name": "D-sub" }],
+    "tags": [
+      { "id": "1", "name_primary": "ウエライド：草", "context": null, "type": "BACKGROUND_MUSIC" },
+      { "id": "2", "name_primary": "ぼっち・ざ・ろっく！", "context": null, "type": "ANIME" },
+      { "id": "3", "name_primary": "山田リョウ", "context": "ぼっち・ざ・ろっく！", "type": "CHARACTER" },
+      { "id": "4", "name_primary": "伊地知虹夏", "context": "ぼっち・ざ・ろっく！", "type": "CHARACTER" },
+      { "id": "5", "name_primary": "喜多郁代", "context": "ぼっち・ざ・ろっく！", "type": "CHARACTER" },
+      { "id": "6", "name_primary": "後藤ひとり", "context": "ぼっち・ざ・ろっく！", "type": "CHARACTER" }
+    ],
+    "parent_videos": [],
+    "related_videos": [
+      {
+        "id": "2",
+        "title_primary": "ナイト・オブ・ナイツ",
+        "image_primary": " http://nicovideo.cdn.nimg.jp/thumbnails/34795653/34795653.71343.L"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title_primary": "ナイト・オブ・ナイツ",
+    "image_primary": " http://nicovideo.cdn.nimg.jp/thumbnails/34795653/34795653.71343.L",
+    "sources": {
+      "niconico": [
+        {
+          "id": "sm34795653",
+          "title": "ナイト・オブ・ナイツ",
+          "link": "https://www.nicovideo.jp/watch/sm34795653",
+          "upload_date": "2019-03-18T01:19:01+09:00"
+        }
+      ],
+      "youtube": [],
+      "bilibili": []
+    },
+    "creators": [{ "id": "2", "name": "アマハム2" }],
+    "tags": [
+      { "id": "7", "name_primary": "ナイト・オブ・ナイツ", "context": null, "type": "BACKGROUND_MUSIC" },
+      { "id": "8", "name_primary": "だいじょばない", "context": null, "type": "MUSIC" }
+    ],
+    "parent_videos": [],
+    "related_videos": [
+      {
+        "id": "1",
+        "title_primary": "これで私は所持金が底をついたので：草",
+        "image_primary": "https://nicovideo.cdn.nimg.jp/thumbnails/41321355/41321355.32327621.L"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title_primary": "OTOMAD TRIBUTE",
+    "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/38303248/38303248.20353931.L",
+    "sources": {
+      "niconico": [
+        {
+          "id": "sm38303248",
+          "title": "OTOMAD TRIBUTE",
+          "link": "https://www.nicovideo.jp/watch/sm38303248",
+          "upload_date": "2021-02-20T20:00:00+09:00"
+        }
+      ],
+      "youtube": [],
+      "bilibili": []
+    },
+    "creators": [{ "id": "3", "name": "単三型" }],
+    "tags": [
+      {
+        "id": "aa",
+        "name_primary": "音MAD合作",
+        "context": null,
+        "type": "CLASS"
+      }
+    ],
+    "parent_videos": [
+      {
+        "id": "a1",
+        "title_primary": "ビガビガ",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/13622831/13622831"
+      },
+      {
+        "id": "a2",
+        "title_primary": "和田アキ子「ｳｰｗｗｲｗｰｳｗーｱｯｗｱｯｰｗｗｗｗｗｗｗｗｗｗ」",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/31871678/31871678"
+      },
+      {
+        "id": "a3",
+        "title_primary": "作打ち★HAPPY",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/26141802/26141802"
+      },
+      {
+        "id": "a4",
+        "title_primary": "ゆっこのチャレンジャー",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/15057401/15057401"
+      },
+      {
+        "id": "a5",
+        "title_primary": "ホモのゴローリィ64　ボス戦",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/7866953/7866953"
+      },
+      {
+        "id": "a6",
+        "title_primary": "おどれナチスの糞親父",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/24825535/24825535"
+      },
+      {
+        "id": "a7",
+        "title_primary": "危険なルーニー荒川",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/12144952/12144952"
+      },
+      {
+        "id": "a8",
+        "title_primary": "一人でクリスマスしましょ",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/9193719/9193719"
+      },
+      {
+        "id": "a9",
+        "title_primary": "すたこらごらく部",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/15932235/15932235"
+      },
+      {
+        "id": "a10",
+        "title_primary": "ゴークロソーサー",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/19661249/19661249"
+      },
+      {
+        "id": "a11",
+        "title_primary": "缶コーヒーBOSS 2 BOSS　贅沢微糖mania",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/14355820/14355820"
+      },
+      {
+        "id": "a12",
+        "title_primary": "Insane Windows.exe",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/28095619/28095619"
+      },
+      {
+        "id": "a13",
+        "title_primary": "イチローがPerfumeのレーザービームに合わせて人類を滅亡させたようです。",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/15052074/15052074"
+      },
+      {
+        "id": "a14",
+        "title_primary": "Trash箱にフタがあってよかったな～",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/32826603/32826603"
+      },
+      {
+        "id": "a15",
+        "title_primary": "バイオハザードでドーナツホール",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/22536254/22536254"
+      },
+      {
+        "id": "a16",
+        "title_primary": "ｵﾊﾖｺﾞｻﾞｲﾏｰｽ",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/24618384/24618384"
+      },
+      {
+        "id": "a17",
+        "title_primary": "課長と恋の実験室",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/17499483/17499483"
+      },
+      {
+        "id": "a18",
+        "title_primary": "どんえんベース",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/10295321/10295321"
+      },
+      {
+        "id": "a19",
+        "title_primary": "味仙+KAMAITACHI",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/6458992/6458992"
+      },
+      {
+        "id": "a20",
+        "title_primary": "本振りサディスティック",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/34801290/34801290.11398"
+      },
+      {
+        "id": "a21",
+        "title_primary": "LOVE Y.R.P",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/25860209/25860209"
+      },
+      {
+        "id": "a22",
+        "title_primary": "じゃんらく",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/18671016/18671016"
+      },
+      {
+        "id": "a23",
+        "title_primary": "カビキラメキラリ",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/13978550/13978550"
+      },
+      {
+        "id": "a24",
+        "title_primary": "巨人小笠Swar!!",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/27800176/27800176"
+      },
+      {
+        "id": "a25",
+        "title_primary": "ふぃぎゅ@浦和高校",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/30073401/30073401"
+      },
+      {
+        "id": "a26",
+        "title_primary": "ねずみフレンズ　～ようこそディズニーランドへ～",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/30717222/30717222"
+      },
+      {
+        "id": "a27",
+        "title_primary": "キルミー",
+        "image_primary": "http://nicovideo.cdn.nimg.jp/thumbnails/33912703/33912703"
+      }
+    ],
+    "related_videos": []
+  }
+]
